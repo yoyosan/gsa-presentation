@@ -1,0 +1,3 @@
+https://developers.google.com/search-appliance/documentation/614/QuickStart/quick_start_intro
+https://en.wikipedia.org/wiki/Google_Search_Appliance
+http://services.google.com/fh/files/misc/gsa-6-14-dataheet.pdf
